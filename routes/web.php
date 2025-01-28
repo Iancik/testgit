@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::get('/practica', function () {
+Route::get('/practicaaaaaa', function () {
     return 'aaaaa';
 });
 use App\Http\Controllers\MyPlaceController;
